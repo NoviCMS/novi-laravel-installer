@@ -1,0 +1,18 @@
+{
+  "description": "Laravel web installer",
+  "license": "MIT",
+  "authors": [
+    {
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Jaapgoorhuis\\LaravelInstaller\\": "src/"
+    },
+    "files": [
+      "src/functions.php"
+    ]
+  },
+  "minimum-stability": "stable"
+}
