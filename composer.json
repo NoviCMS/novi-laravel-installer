@@ -1,8 +1,11 @@
 {
+  "name": "jaapgoorhuis/novi-laravel-installer",
   "description": "Laravel web installer",
   "license": "MIT",
   "authors": [
     {
+      "name": "NoviSites",
+      "email": "info@novisites.nl"
     }
   ],
   "require": {},
