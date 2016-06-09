@@ -17,7 +17,7 @@ First, pull in the package through Composer.
 
 ```
 "require": {
-    "jaapgoorhuis/novi-laravel-installer": "1.1"
+    "jaapgoorhuis/novi-laravel-installer": "1.2"
 }
 ```
 
