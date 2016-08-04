@@ -17,7 +17,7 @@ First, pull in the package through Composer.
 
 ```
 "require": {
-    "NoviCMS/novi-laravel-installer": "1.2"
+    "novicms/novi-laravel-installer": "1.2"
 }
 ```
 
