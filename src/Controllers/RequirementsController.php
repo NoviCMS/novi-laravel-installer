@@ -1,9 +1,9 @@
 <?php
 
-namespace Jaapgoorhuis\LaravelInstaller\Controllers;
+namespace NoviCMS\LaravelInstaller\Controllers;
 
 use App\Http\Controllers\Controller;
-use Jaapgoorhuis\LaravelInstaller\Helpers\RequirementsChecker;
+use NoviCMS\LaravelInstaller\Helpers\RequirementsChecker;
 
 class RequirementsController extends Controller
 {

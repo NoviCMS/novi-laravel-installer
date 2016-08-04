@@ -1,10 +1,10 @@
 <?php
 
-namespace Jaapgoorhuis\LaravelInstaller\Controllers;
+namespace NoviCMS\LaravelInstaller\Controllers;
 
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
-use Jaapgoorhuis\LaravelInstaller\Helpers\PermissionsChecker;
+use NoviCMS\LaravelInstaller\Helpers\PermissionsChecker;
 
 class PermissionsController extends Controller
 {

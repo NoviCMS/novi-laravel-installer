@@ -1,9 +1,9 @@
 <?php
 
-namespace Jaapgoorhuis\LaravelInstaller\Controllers;
+namespace NoviCMS\LaravelInstaller\Controllers;
 
 use App\Http\Controllers\Controller;
-use Jaapgoorhuis\LaravelInstaller\Helpers\DatabaseManager;
+use NoviCMS\LaravelInstaller\Helpers\DatabaseManager;
 
 class DatabaseController extends Controller
 {

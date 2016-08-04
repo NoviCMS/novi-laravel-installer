@@ -1,6 +1,6 @@
 <?php
 
-namespace Jaapgoorhuis\LaravelInstaller\Controllers;
+namespace NoviCMS\LaravelInstaller\Controllers;
 
 use App\Http\Controllers\Controller;
 

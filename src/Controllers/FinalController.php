@@ -1,9 +1,9 @@
 <?php
 
-namespace Jaapgoorhuis\LaravelInstaller\Controllers;
+namespace NoviCMS\LaravelInstaller\Controllers;
 
 use App\Http\Controllers\Controller;
-use Jaapgoorhuis\LaravelInstaller\Helpers\InstalledFileManager;
+use NoviCMS\LaravelInstaller\Helpers\InstalledFileManager;
 
 class FinalController extends Controller
 {

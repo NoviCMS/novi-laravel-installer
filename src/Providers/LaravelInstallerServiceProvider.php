@@ -1,6 +1,6 @@
 <?php
 
-namespace Jaapgoorhuis\LaravelInstaller\Providers;
+namespace NoviCMS\LaravelInstaller\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -32,7 +32,7 @@ class LaravelInstallerServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        app('router')->middleware('canInstall', '\Jaapgoorhuis\LaravelInstaller\Middleware\canInstall');
+        app('router')->middleware('canInstall', '\NoviCMS\LaravelInstaller\Middleware\canInstall');
     }
 
     /**

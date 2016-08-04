@@ -1,6 +1,6 @@
 <?php
 
-namespace Jaapgoorhuis\LaravelInstaller\Helpers;
+namespace NoviCMS\LaravelInstaller\Helpers;
 
 
 class InstalledFileManager

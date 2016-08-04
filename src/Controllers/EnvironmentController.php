@@ -1,11 +1,11 @@
 <?php
-namespace Jaapgoorhuis\LaravelInstaller\Controllers;
+namespace NoviCMS\LaravelInstaller\Controllers;
 use App, PDOException, error, pdo;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Routing\Redirector;
-use Jaapgoorhuis\LaravelInstaller\Helpers\EnvironmentManager;
+use NoviCMS\LaravelInstaller\Helpers\EnvironmentManager;
 class EnvironmentController extends Controller
 {
     /**
